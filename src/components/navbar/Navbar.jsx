@@ -18,7 +18,7 @@ const Navbar = () => {
           <p><a href="#home">Home</a></p>
           <p><a href="#wgpt3">What is REAL-3?</a></p>
           <p><a href="#possibility">Open REAL-3</a></p>
-          <p><a href="#features">Case Studies</a></p>
+          <p><a href="#features">contact</a></p>
           <p><a href="#blog">Library</a></p>
         </div>
       </div>
